@@ -8,7 +8,7 @@ This repository distributes public Android APK releases and release metadata; it
 - APK: [Download hvac-analyzer-mobile.apk](https://github.com/JosueJosende/hvac-analyzer-mobile-releases/releases/download/v1.13.2/hvac-analyzer-mobile.apk)
 - [All releases](https://github.com/JosueJosende/hvac-analyzer-mobile-releases/releases)
 - Size: 6,149,422 bytes
-- SHA-256: `12fbc1ba1404a9e6c6701643380d8efd0a78ebc66ab93f3e6545f5c235305775`
+- SHA-256: `b214f079d59649e95832c456cc16cba94b5c4ae8240d4368a63b1bf6d3c2b8fa`
 - Signing certificate SHA-256: `c1f91c52b1b75bd57fa1d7b2619110f78351a9c51a08a3fd35821eee4e698d8f`
 - Signature: one RSA-4096 signer, APK Signature Scheme v2; non-debuggable
 
